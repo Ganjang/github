@@ -4,7 +4,7 @@
   */ 
 
   const char* host = "api.thingspeak.com"; 
- String url = "/update?api_key=H96GHOHDVF04K2PE";   // Your Own Key here 
+ String url = "/update?api_key=2X09F0XCZ4FUW1NY";   // Your Own Key here 
  const int httpPort = 80; 
  int interval = 60000; 
  
